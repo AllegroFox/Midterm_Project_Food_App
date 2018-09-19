@@ -18,12 +18,17 @@
     "express": "^4.13.4",
     "knex": "^0.11.7",
     "knex-logger": "^0.1.0",
+    "knex-migrate": "^1.6.1",
     "morgan": "^1.7.0",
     "node-sass-middleware": "^0.9.8",
     "pg": "^6.0.2"
   },
   "devDependencies": {
     "nodemon": "^1.18.4",
+<<<<<<< HEAD
     "sqlite3": "^3.1.4"
+=======
+    "sqlite3": "^4.0.2"
+>>>>>>> 48db9ef76794e34d30207460b4c5a6e9f65eee2f
   }
 }
